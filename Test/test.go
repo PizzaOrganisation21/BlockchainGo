@@ -1,5 +1,5 @@
 package test
 
 func Test() string {
-	return "Dinge"
+	return "Dinnnnnnge"
 }
