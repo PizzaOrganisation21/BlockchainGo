@@ -94,4 +94,5 @@ func main() {
 
 	// check if the blockchain is valid; expecting true
 	fmt.Println(blockchain.isValid())
+	fmt.Println(blockchain.chain[2].hash)
 }
